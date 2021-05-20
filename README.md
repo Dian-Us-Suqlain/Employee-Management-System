@@ -11,3 +11,7 @@ This project includes multiple functionalities and features such as:
   
 I have used recycler view to update employee data as I don't know how many employees would be added in a certain company. So, just for the safe side my recycler view would 
 keep updating the employee data and display them on a separate activity.
+
+HOW TO RUN!
+
+Simply download the src file and import it in Android Studio, after the gradle build is successful. You would be able to run it on your mobile phone.
