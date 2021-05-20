@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Employee Management System</string>
+    <string name="add_employee">Add Employee</string>
+    <string name="employees_list">Employees List</string>
+    <string name="mark_attendance">Mark Attendance</string>
+    <string name="attendance_report">Attendance Report</string>
+    <string name="summary_report">Summary Report</string>
+    <string name="employee_management_application">Employee Management Application</string>
+    <string name="choose_a_menu">Choose A Menu</string>
+    <string name="employee_details">Employee Details</string>
+    <string name="employee_id">Employee ID</string>
+    <string name="employee_joining_date">Employee Joining Date</string>
+    <string name="employee_full_name">Employee Full Name</string>
+    <string name="employee_designation">Employee Designation</string>
+    <string name="employee_mobile_no">Employee Mobile No.</string>
+    <string name="employee_work_details">Employee Work Details</string>
+    <string name="employee_salary">Employee Salary</string>
+    <string name="reset">Reset</string>
+    <string name="save">Save</string>
+    <string name="clear">Clear</string>
+    <string name="email">Email</string>
+    <string name="mobile_no">Mobile No.</string>
+    <string name="designation">Designation</string>
+    <string name="full_name">Full Name</string>
+    <string name="company_name">Company Name</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="all_employees">All Employees</string>
+    <string name="update">Update</string>
+    <string name="update_employee_details">Update Employee Details</string>
+    <string name="employee_attendance">Employee Attendance</string>
+    <string name="present">Present</string>
+    <string name="absent">Absent</string>
+    <string name="absent_present">Absent/Present?</string>
+</resources>
