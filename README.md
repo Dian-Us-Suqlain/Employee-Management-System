@@ -1,4 +1,4 @@
-# My-Personal-Projects
+# Employee-Management-System
 I designed &amp; developed this project during my Android Development course at University. 
 It's an Employee Management System which allows employers and employees to create accounts and enter their personal and work related details.
 
